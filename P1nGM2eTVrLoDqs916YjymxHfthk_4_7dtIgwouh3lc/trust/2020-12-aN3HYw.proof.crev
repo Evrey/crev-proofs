@@ -74,3 +74,22 @@ comment: |-
 ClRQAlBF7u3EeG7BdiQued22_YHDDVN2wIyne9YXwfN18bTmYZ1gYpVf1Gw2hRahf1ZDiqgYENIwafiyUanABg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-12-11T16:13:35.476024714+01:00"
+from:
+  id-type: crev
+  id: P1nGM2eTVrLoDqs916YjymxHfthk_4_7dtIgwouh3lc
+  url: "https://github.com/Evrey/crev-proofs"
+ids:
+  - id-type: crev
+    id: 3RbuGjEXncb0DKkc48pm8X9eNlW1-Ze2r6qcv4RtLEI
+    url: "https://github.com/Nemo157/crev-proofs"
+trust: medium
+comment: |-
+  Nemo157
+----- SIGN CREV PROOF -----
+zMNvOKZHqpeJ8q6V-Vzgvtw937Ucq9Y2jhN6jDVrRte7vmv2jpJYBBvNAgOVbMS1WK1zGb6xLc81uRv_4eWsAQ
+----- END CREV PROOF -----
+
