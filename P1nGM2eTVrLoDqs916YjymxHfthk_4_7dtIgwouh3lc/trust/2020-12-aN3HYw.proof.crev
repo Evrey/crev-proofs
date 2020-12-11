@@ -55,3 +55,22 @@ comment: |-
 jJfBBiXe9D8kZpzCOqpMtT1GTz6CkABcApIr136p1q4vAEUmnDZIie65AhjdxVSSxHtXZkoItH2IRypjk_G2Bg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-12-11T15:27:14.461042356+01:00"
+from:
+  id-type: crev
+  id: P1nGM2eTVrLoDqs916YjymxHfthk_4_7dtIgwouh3lc
+  url: "https://github.com/Evrey/crev-proofs"
+ids:
+  - id-type: crev
+    id: ZCBwWlOeJyU79adJqX9-irGH5wrmuYxUPXeSrFKuayg
+    url: "https://github.com/Lokathor/crev-proofs"
+trust: medium
+comment: |-
+  Loka
+----- SIGN CREV PROOF -----
+ClRQAlBF7u3EeG7BdiQued22_YHDDVN2wIyne9YXwfN18bTmYZ1gYpVf1Gw2hRahf1ZDiqgYENIwafiyUanABg
+----- END CREV PROOF -----
+
